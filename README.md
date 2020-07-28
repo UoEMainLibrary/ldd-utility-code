@@ -12,8 +12,11 @@ Various utilities which have helped with DIU/Museums/Schol Comms/e-Reserve work.
 * theses-CSV- convert a CSV to simple archive format (for theses)
 * python- python work
 * --- dspaceLoader - automation from Vernon to dspace
-* --- goobi_mets_luna- python (not used) util to convert mets to luna template
-* --- speccoll- iiif manifest creator for dspace
+* --- goobi_mets_luna - python (not used) util to convert mets to luna template
+* --- speccoll - iiif manifest creator for dspace
 * --- manifestMaker - manifests for various iiif implementations
 * --- ezProxy_checks - scripts to parse ezProxy logs
-
+* --- attic_conversion - scripts to create the correct attic theses
+* --- genderize_vernon - scripts to work out the gender of Vernon persons
+* --- luna_from_vernon - new scripts to automate LUNA md off Vernon/LUNA APIs
+* --- rsc-issn - get a journal name from an issn for RSC
